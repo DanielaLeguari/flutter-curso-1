@@ -1,6 +1,14 @@
 # flutter_curso_1
 
-Primeiro projeto em Flutter
+## Primeiro projeto em Flutter
+
+# Sobre o Flutter
+
+## Widgets
+
+<p> É a base do Flutter. Como se fosse uma peça de lego que em conjunto podemos construir alguma coisa.</p>
+
+
 
 ## Getting Started
 
